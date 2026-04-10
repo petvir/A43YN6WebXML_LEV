@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<A43YN6_orarend xmlns:xs="http:\\www.w3.org/2001/XMLSchema-instance">
+
+    <ora id="01" tipus="gyakorlat">
+        <targy>Webkönyvtárak</targy>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13</tol>
+            <ig>18</ig>
+        </idopont>
+        <helyszin>Inf 124</helyszin>
+        <oktato>Bednarik</oktato>
+        <szak>Programtervező informatikus</szak>
+    </ora>
+
+    <ora id="02" tipus="előadás">
+        <targy>Valószínüségszámítás</targy>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13</tol>
+            <ig>18</ig>
+        </idopont>
+        <helyszin>Inf 124</helyszin>
+        <oktato>Bednarik</oktato>
+        <szak>Programtervező informatikus</szak>
+    </ora>
+
+    <ora id="03" tipus="előadás">
+        <targy>Hálózati architektúrák</targy>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>9</tol>
+            <ig>13</ig>
+        </idopont>
+        <helyszin>Inf 124</helyszin>
+        <oktato>Bednarik</oktato>
+        <szak>Programtervező informatikus</szak>
+    </ora>
+</A43YN6_orarend>
