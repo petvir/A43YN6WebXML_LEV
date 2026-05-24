@@ -1,0 +1,45 @@
+{
+  "A43YN6_orarend": {
+    "ora": [
+      {
+        "id": "01",
+        "tipus": "gyakorlat",
+        "targy": "Webkönyvtárak",
+        "idopont": {
+          "nap": "péntek",
+          "tol": 13,
+          "ig": 18
+        },
+        "helyszin": "Inf 124",
+        "oktato": "Bednarik",
+        "szak": "Programtervező informatikus"
+      },
+      {
+        "id": "02",
+        "tipus": "előadás",
+        "targy": "Valószínüségszámítás",
+        "idopont": {
+          "nap": "péntek",
+          "tol": 13,
+          "ig": 18
+        },
+        "helyszin": "Inf 124",
+        "oktato": "Bednarik",
+        "szak": "Programtervező informatikus"
+      },
+      {
+        "id": "03",
+        "tipus": "előadás",
+        "targy": "Hálózati architektúrák",
+        "idopont": {
+          "nap": "szombat",
+          "tol": 9,
+          "ig": 13
+        },
+        "helyszin": "Inf 124",
+        "oktato": "Bednarik",
+        "szak": "Programtervező informatikus"
+      }
+    ]
+  }
+}
